@@ -5,4 +5,4 @@
 <ver1.0(First Develop) 기간> 2023년 1월 3일 ~ 2023년 1월 30일 
 
 
-<개발 툴>-> Next.js, Node.js, Visual Code
+<개발 툴>-> Next.js, Node.js, Visual Code, Notion, Postman
