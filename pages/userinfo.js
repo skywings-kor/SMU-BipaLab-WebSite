@@ -19,7 +19,7 @@ export default function Userinfo({memebers,memberNames})
                 </Head>
 
                   
-                <div className="grid grid-cols-2 md:grid-cols-3 py-10 m-6 gap-8 ">
+                <div className="grid grid-cols-1 md:grid-cols-3 py-10 m-6 gap-8 ">
                   {memebers.results.map((allProject) => (
                     // <h1>{allProject.properties.Name.rich_text[0].plain_text}</h1>
                     <MemberItem key={allProject.id}data={allProject}/>
